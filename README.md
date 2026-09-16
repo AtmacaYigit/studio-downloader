@@ -31,7 +31,7 @@ A modern, fast, and feature-rich desktop media downloader built with **Python** 
 ## 🚀 Installation
 
 ### 1. Clone the repository
-git clone https://github.com/AtmacaYigit/studio-downloader.git
+git clone [https://github.com/AtmacaYigit/studio-downloader.git](https://github.com/AtmacaYigit/studio-downloader.git)
 cd studio-downloader
 
 ### 2. Install dependencies
@@ -53,15 +53,10 @@ python yt_converter.py
 
 ## 📂 Project Structure
 
+```text
 studio-downloader/
 │
 ├── yt_converter.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
----
-
-## ⚠️ Disclaimer
-
-This application is intended for personal and educational use only. Please respect the intellectual property rights and terms of service of YouTube, TikTok, and content creators when downloading media.
